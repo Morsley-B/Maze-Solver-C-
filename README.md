@@ -24,7 +24,7 @@ No-Path Detection — Determines if the goal is unreachable from the start.
 Input Format
 The program reads a grid from standard input, with each line representing a row of the map.
 Characters used:
-S — Start position
-G — Goal position
-# — Wall
-' ' — Open space
+S for Start position
+G for Goal position
+'#' for Wall
+' ' for Open space
