@@ -28,3 +28,5 @@ S for Start position
 G for Goal position
 '#' for Wall
 ' ' for Open space
+
+Practical Use: Demonstrates strong understanding of graph traversal techniques applicable in AI pathfinding, robotics navigation, and game development.
